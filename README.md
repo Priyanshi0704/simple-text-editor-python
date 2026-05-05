@@ -18,8 +18,8 @@ This project demonstrates GUI development, file handling, and event-driven progr
 * File Handling
 
 ## 📸 Screenshots
+<img width="757" height="572" alt="image" src="https://github.com/user-attachments/assets/a91dcb47-393a-416c-8e51-57a7b1649085" />
 
-(Add images here)
 
 ## ▶️ How to Run
 
